@@ -1,7 +1,11 @@
-## Hi there 👋
+## Complex Connections Lab Repository 👋
 
 This is the repository of the [Complex Connections Lab](https://riccardodiclemente.com/complex_connections_lab.html) based at the [Network Science Institute](https://www.networkscienceinstitute.org/) 
 at [Northeastern Univeversity London](https://www.nulondon.ac.uk/).
+This repository containes the collection of codes to replicate the labs publications, if you want to have a look to lab's team members plese check [here](https://riccardodiclemente.com/team.html)
+
+
+## The Complex Connections Lab
 
 The lab is lead by Associate Professor [Riccardo Di Clemente](https://riccardodiclemente.com/)
 The **Complex Connections Lab** is a research laboratory based at the Northeastern University London dedicated to studying the complex social connections that govern human behavior and interactions in cities and online.
